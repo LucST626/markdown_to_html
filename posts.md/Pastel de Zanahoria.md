@@ -1,7 +1,7 @@
 # Guía para hacer un delicioso Pastel de Zanahoria
 ## Fecha de publicación: 22 de octubre de 2023
 ## Autor: Lucas
-
+<br>
 ¡El pastel de zanahoria es una delicia que combina a la perfección el sabor dulce con un toque ligeramente picante! Aquí tienes una receta sencilla para preparar este postre clásico.
 
 ### Ingredientes:
@@ -39,7 +39,7 @@
 - ¡Disfruta de este exquisito pastel con un café o té caliente para una tarde perfecta!
 
 
-
+![pastel vegano](image.png)
 
 
 
