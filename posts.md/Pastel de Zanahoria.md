@@ -39,7 +39,7 @@
 - ¡Disfruta de este exquisito pastel con un café o té caliente para una tarde perfecta!
 
 
-![pastel vegano](image.png)
+![Pastel Vegano](image.png)
 
 
 
