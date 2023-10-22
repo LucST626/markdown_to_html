@@ -37,3 +37,10 @@
 - Una vez que esté listo, deja enfriar y decora con crema de queso si lo deseas.
   
 - ¡Disfruta de este exquisito pastel con un café o té caliente para una tarde perfecta!
+
+
+
+
+
+
+¡Vuelve a la [página principal](../index.md) para más contenido interesante!
